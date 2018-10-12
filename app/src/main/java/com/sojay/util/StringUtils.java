@@ -56,6 +56,7 @@ public class StringUtils {
 
     /**
      * <p>
+     * 全面检查
      * Checks if a (trimmed) String is <code>null</code> or empty.
      * or 是字符串且内容为"null".
      * </p>
